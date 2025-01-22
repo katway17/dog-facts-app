@@ -17,6 +17,11 @@ A simple Node.js app that fetches random dog facts using the Dog API and display
 
 4. **Run the Application**:
    ```bash
+   node index.js
+
+5. **Open the app in your browser at:**:
+   http://localhost:3000
+
 
 ## Features
 - Fetches random dog facts from the Dog API.
