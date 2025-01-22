@@ -1,15 +1,37 @@
-# Dog Facts App
-A simple Node.js app that fetches random dog facts using the Dog API.
+# Dog Facts App 🐶
+A simple Node.js app that fetches random dog facts using the Dog API and displays them in a user-friendly way.
 
-## How to Run
-1. Clone the repository:
-   `git clone https://github.com/katway17/dog-facts-app.git`
-2. Install dependencies:
-   `npm install`
-3. Start the server:
-   `node index.js`
-4. Open the browser and navigate to `http://localhost:3000`.
+### How to Run Locally
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/katway17/dog-facts-app.git
+
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd dog-facts-app
+
+3. **Install Dependencies**:
+   ```bash
+   npm install
+
+4. **Run the Application**:
+   ```bash
 
 ## Features
 - Fetches random dog facts from the Dog API.
-- Styled with CSS.
+- Displays facts dynamically using EJS templates.
+- Clean and responsive design with custom CSS styling.
+
+## API Integration
+This project uses the Dog API to fetch random dog facts.
+
+### API Endpoint Used
+- **GET** `https://dog-api.kinduff.com/api/facts`: Retrieves random dog facts.
+
+### Technologies Used
+- **Node.js**: JavaScript runtime environment.
+- **Express.js**: Web framework for Node.js.
+- **Axios**: For making API requests.
+- **EJS**: Templating engine to render dynamic HTML.
+- **CSS**: Custom styling for the website.
