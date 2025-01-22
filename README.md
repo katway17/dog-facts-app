@@ -19,6 +19,15 @@ This project uses the Dog API to fetch random dog facts.
 - **EJS**: Templating engine to render dynamic HTML.
 - **CSS**: Custom styling for the website.
 
+## Getting Started
+
+### Prerequisites
+Before running the project, ensure you have the following installed:
+- **Node.js**: [Download Node.js](https://nodejs.org/)
+- **NPM**: Comes with Node.js
+
+---
+
 ### How to Run Locally
 
 1. **Clone the Repository**:
