@@ -19,7 +19,7 @@ A simple Node.js app that fetches random dog facts using the Dog API and display
    ```bash
    node index.js
 
-5. **Open the app in your browser at:**:
+5. **Open the app in your browser at**:
    http://localhost:3000
 
 
