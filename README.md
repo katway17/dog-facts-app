@@ -1,29 +1,29 @@
-# Dog Facts App 🐶
-A simple Node.js app that fetches random dog facts using the Dog API and displays them in a user-friendly way.
+# 🐶 Dog Facts App  
+A simple Node.js app that fetches random dog facts using the **Dog API** and displays them dynamically.
 
-## Features
-- Fetches random dog facts from the Dog API.
-- Displays facts dynamically using EJS templates.
-- Clean and responsive design with custom CSS styling.
-
----
-
-## API Integration
-This project uses the Dog API to fetch random dog facts.
+## 🚀 Features  
+✅ Fetches random dog facts from the **Dog API**  
+✅ Displays facts dynamically using **EJS templates**  
+✅ User-friendly interface with clean, responsive **CSS styling**  
+✅ Handles API errors gracefully to ensure a smooth user experience  
+✅ Built using **Express.js** for lightweight and efficient routing  
 
 ---
 
-### API Endpoint Used
-- **GET** `https://dog-api.kinduff.com/api/facts`: Retrieves random dog facts.
+## 🔗 API Integration  
+This project uses the **Dog API** to fetch and display random dog facts.  
+
+### **API Endpoint Used**  
+📌 `GET https://dogapi.dog/api/v2/facts` – Fetches a set of random dog facts  
 
 ---
 
-### Technologies Used
-- **Node.js**: JavaScript runtime environment.
-- **Express.js**: Web framework for Node.js.
-- **Axios**: For making API requests.
-- **EJS**: Templating engine to render dynamic HTML.
-- **CSS**: Custom styling for the website.
+## 🛠️ Technologies Used  
+- **Node.js** – JavaScript runtime environment  
+- **Express.js** – Web framework for building the server  
+- **Axios** – Fetches data from the Dog API  
+- **EJS** – Templating engine for rendering dynamic content  
+- **CSS** – Custom styling for a clean and responsive UI 
 
 ---
 
